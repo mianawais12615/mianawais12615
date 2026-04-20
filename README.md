@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awais</h1>
-<h3 align="center">A passionate frontend developer fromFront-end developer in progress, focused on building clean and responsive user interfaces using HTML, CSS, and JavaScript. Passionate about learning and improving modern web development skills. </h3>
+<h3 align="center">A passionate front-end developer focused on crafting clean, responsive, and user-friendly interfaces using HTML, CSS, JavaScript, and React. Continuously learning and refining modern web development skills to build engaging and efficient digital experiences. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mianawais12615&label=Profile%20views&color=0e75b6&style=flat" alt="mianawais12615" /> </p>
 
